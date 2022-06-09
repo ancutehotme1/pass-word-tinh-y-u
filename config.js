@@ -5,14 +5,14 @@ const CONFIG = {
     btnIntro: 'OK',
     title: 'cậu thích tớ có phải không ? 😙',
     desc: 'cậu không trả lời hoặc thoát ra, tức là cậu thích tớ đó nha :> ',
-    btnYes: 'Có, tớ thật sự thích cậu 💖💖💖',
+    btnYes: 'Có, tớ thích cậu 💖💖💖',
     btnNo: '💔 bạn mơ à ! 💔 ',
     question:'Nói cho tớ biết đi vì sao cậu thích tớ 😊😊',
     reasonPlaceholder: 'Lý do',
     btnReply: 'Gởi ! 💌💌',
-    reply: 'Tại vì anh đẹp trai đó Ahiiiii 😊😊',
-    mess: 'Anh biết mà, Anh cũng thích em lắm 🥰. Love you 300.000 😘😘',
-    messDesc: '💬💬 Nhắn tin cho Anh nha. 💬💬',
+    reply: 'Tại vì iu cậu nên mới thích 😊😊',
+    mess: 'tớ biết mà, tớ cũng thích cậu lắm 🥰. Love you 300.000 😘😘',
+    messDesc: '💬💬 Nhắn tin cho tớ nha. 💬💬',
     btnAccept: 'Ok lun 💖',
     messLink: 'https://www.facebook.com/luongan0402/'
 }
